@@ -1,4 +1,4 @@
-<h2 align="left">Prazer! Meu nome é Arthur Bressan Silva e eu sou um estudante, nascido em imbituba SC </h2>
+<h2 align="left">Prazer! Meu nome é Arthur Bressan e eu sou estudante de Sistemas para Internet no IFSC. </h2>
 
 ###
 
